@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bamboo-skateboards-business-plan/static/css/main.d3b7c832.css",
+    "main.js": "/bamboo-skateboards-business-plan/static/js/main.e7f15c89.js",
+    "index.html": "/bamboo-skateboards-business-plan/index.html",
+    "main.d3b7c832.css.map": "/bamboo-skateboards-business-plan/static/css/main.d3b7c832.css.map",
+    "main.e7f15c89.js.map": "/bamboo-skateboards-business-plan/static/js/main.e7f15c89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3b7c832.css",
+    "static/js/main.e7f15c89.js"
+  ]
+}
